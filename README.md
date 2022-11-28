@@ -6,13 +6,8 @@
 Aqui estão algumas idéias para você começar:
 
 - 🔭 15 anos de experiência na area de TI.
-- 🌱 Vários cursos em JavaScript / Node.js
+- 🌱 Vários cursos em JavaScript / Node.js / HTML / CSS.
 - 👯 A procura do primeiro emprego em Programação.
-- 🤔 
-- 💬 
-- 📫 
-- 😄 
-- ⚡ 
 
 -->
 
