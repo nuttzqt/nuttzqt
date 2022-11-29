@@ -1,7 +1,7 @@
 ## Oi 👋, eu sou o Edson Júnior <img align="center" src="https://komarev.com/ghpvc/?username=nuttzqt" />
 
 <a href = "mailto:nuttz.jr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitorsoaresp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/edson-junior-677487161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Sobre min:
 
