@@ -26,7 +26,7 @@ Estudando programação Web Full-Stack na DevMedia
 <div>
     <a href="https://github.com/nuttzqt">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitosoaresp&layout=compact&langs_count=7&theme=tokyonight"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitosoaresp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuttzqt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
 </div>
     
